@@ -1,0 +1,14 @@
+C:\Users\deroz\Desktop\TDD_Proj\bin\Debug\net8.0\TDD_Proj.exe
+C:\Users\deroz\Desktop\TDD_Proj\bin\Debug\net8.0\TDD_Proj.deps.json
+C:\Users\deroz\Desktop\TDD_Proj\bin\Debug\net8.0\TDD_Proj.runtimeconfig.json
+C:\Users\deroz\Desktop\TDD_Proj\bin\Debug\net8.0\TDD_Proj.dll
+C:\Users\deroz\Desktop\TDD_Proj\bin\Debug\net8.0\TDD_Proj.pdb
+C:\Users\deroz\Desktop\TDD_Proj\obj\Debug\net8.0\TDD_Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deroz\Desktop\TDD_Proj\obj\Debug\net8.0\TDD_Proj.AssemblyInfoInputs.cache
+C:\Users\deroz\Desktop\TDD_Proj\obj\Debug\net8.0\TDD_Proj.AssemblyInfo.cs
+C:\Users\deroz\Desktop\TDD_Proj\obj\Debug\net8.0\TDD_Proj.csproj.CoreCompileInputs.cache
+C:\Users\deroz\Desktop\TDD_Proj\obj\Debug\net8.0\TDD_Proj.dll
+C:\Users\deroz\Desktop\TDD_Proj\obj\Debug\net8.0\refint\TDD_Proj.dll
+C:\Users\deroz\Desktop\TDD_Proj\obj\Debug\net8.0\TDD_Proj.pdb
+C:\Users\deroz\Desktop\TDD_Proj\obj\Debug\net8.0\TDD_Proj.genruntimeconfig.cache
+C:\Users\deroz\Desktop\TDD_Proj\obj\Debug\net8.0\ref\TDD_Proj.dll
